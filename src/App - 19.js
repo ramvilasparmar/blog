@@ -1,16 +1,13 @@
 import React, {useState} from 'react'
 // import logo from './logo.svg';
 import './App.css';
-import User from './User';
+import Profile from './Profile';
 
 function App() {
-  function getData()
-  {
-    alert("Hello from app")
-  }
+
   return (
     <div className="App">
-      <User data={getData}/>
+      <Profile />
     </div>
   );
   
