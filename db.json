@@ -1,0 +1,34 @@
+{
+  "todo": [
+    {
+      "id": "1",
+      "name": "Ram",
+      "email": "ram@gmail.com",
+      "mobile": 987458997
+    },
+    {
+      "id": "2",
+      "name": "Vaidika",
+      "email": "vaidika@gmail.com",
+      "mobile": 999856985
+    },
+    {
+      "id": "3",
+      "name": "Siya",
+      "email": "siya@gmail.com",
+      "mobile": 985789654
+    },
+    {
+      "id": "1b79",
+      "name": "shyam",
+      "email": "shyam@gmail.com",
+      "mobile": "975965856"
+    },
+    {
+      "id": "4e7d",
+      "name": "Piter",
+      "email": "piter@gmail.com",
+      "mobile": "985698547"
+    }
+  ]
+}
